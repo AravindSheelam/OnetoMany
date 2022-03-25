@@ -15,6 +15,7 @@ namespace OtmCore.Controllers
     public class CollegesController : ControllerBase
     {
         private readonly InstituteContext _context;
+        //changes
 
         public CollegesController(InstituteContext context)
         {
